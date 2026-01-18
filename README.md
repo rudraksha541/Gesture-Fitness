@@ -1,6 +1,6 @@
-## Gesture Fitness🏋️
+# Gesture Fitness🏋️
 
-#  AI-Based Rep Counter & Posture Correction System
+##  AI-Based Rep Counter & Posture Correction System
 
 An **AI-powered fitness assistant** that uses computer vision to **automatically count exercise repetitions** and **analyze posture in real time** using a webcam.  
 The system helps users perform workouts with **correct form**, reducing injury risk and improving workout efficiency.
